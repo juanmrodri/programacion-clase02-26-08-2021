@@ -36,7 +36,7 @@ int main(void) {
 
 
 
-	printf("\nLa suma acumulada es: %d", acumular);
+	printf("\nLa suma es: %d", acumular);
 
 
 
